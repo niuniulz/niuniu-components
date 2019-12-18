@@ -1,0 +1,1 @@
+declare module 'packages/n-button/index'
